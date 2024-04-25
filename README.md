@@ -5,7 +5,7 @@
     - machine learning
     - data visualization
       
-- 🌐 Personal websites
+- 🌐 Connect with me
     - [Linkedin](https://www.linkedin.com/in/seulbeen-kim-94a498116/)
     - [Kaggle](https://www.kaggle.com/seongnam1stminam)
 
