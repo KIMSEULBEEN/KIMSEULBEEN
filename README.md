@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working on [InBody](https://inbody.com/en)
+- 🔭 I’m currently Computer Vision Engineer at [InBody](https://inbody.com/en)
   
 - 🌱 I’m currently interested in
     - machine learning
