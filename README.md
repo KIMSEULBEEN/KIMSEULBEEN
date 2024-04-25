@@ -11,12 +11,13 @@
 - 🌐 Connect with me
     - [Linkedin](https://www.linkedin.com/in/seulbeen-kim-94a498116/)
     - [Kaggle](https://www.kaggle.com/seongnam1stminam)
+ 
+- 😄 Pronouns: He/Him
 
 - ⚡ Algorithm Stats ([BOJ](https://www.acmicpc.net/), Backjoon Online Judge)
     
     <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmfqksdk">
 
-- 😄 Pronouns: He/Him
 
 
 <!--
