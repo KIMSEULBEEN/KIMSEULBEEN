@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on InBody
+- 🌱 I’m currently interested in
+    - machine learning
+    - data visualization
+- 💼[LinkedIn](https://www.linkedin.com/in/seulbeen-kim-94a498116/), [Kaggle](https://www.kaggle.com/seongnam1stminam)
+
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmfqksdk">
 
 <!--
