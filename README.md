@@ -7,10 +7,10 @@
 - 🌱 I’m currently interested in
     - machine learning
     - data visualization
+      
 - 🌐 Connect with me
     - [Linkedin](https://www.linkedin.com/in/seulbeen-kim-94a498116/)
     - [Kaggle](https://www.kaggle.com/seongnam1stminam)
-      
 
 - ⚡ Algorithm Stats ([BOJ](https://www.acmicpc.net/), Backjoon Online Judge)
     
