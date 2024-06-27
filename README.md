@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently interested in
     - machine learning
-    - data visualization
+    - computer vision
       
 - 🌐 Connect with me
     - [Linkedin](https://www.linkedin.com/in/seulbeen-kim-94a498116/)
